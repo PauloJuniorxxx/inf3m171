@@ -1,1 +1,2 @@
-linha 1 do arquivo 01 
+linha 1 do arquivo 01 (alterado)--
+linha 02
